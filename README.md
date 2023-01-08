@@ -1,5 +1,7 @@
 # mini_ecosystem
 
+
+
 In this verry small example of a mini ecosystem. I try to look at the workings of a singular species.
 This species focuses on staying alive thru finding food when hungry. And the desire of repopulation based on age.
 When the animal's need for repopulation gets activated it will keep an eye open for a mate of the opposite sex. That also has a desire to repopulate. they will create a new animal that will have to find food to survive.
