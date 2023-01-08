@@ -18,6 +18,11 @@ When forcefully giving them less sex drive and making the need for food higher. 
 Even whit little thinking. Only going to the food it has taken notice before. When hungry. It automatically made small Connally’s based on the location of there chosen food source. 
 Some of these Connally’s even died out for just not having enuf of the opposite sex.
 
+
+![](https://github.com/yerko321/mini_ecosystem/blob/main/Capture.PNG)
+
+![](https://github.com/yerko321/mini_ecosystem/blob/main/chart%20(1).png)
+
 ## Conclution
 What is implemented is not much. And what I wanned to implement was more. But whit this we can already see that whit the smallest natural behavior. You can already make an open place feal lived in. Especially if you change the texture of the ground depending on how much animals have been running around these part’s.
 
