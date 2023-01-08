@@ -1,0 +1,5 @@
+D:\school\GPP\testing\MyProject\Intermediate\Build\Win64\UE4\Development\MyProject\Definitions.MyProject.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\school\GPP\testing\MyProject\Source\MyProject/MyProjectPlayerController.h
+D:\school\GPP\testing\MyProject\Intermediate\Build\Win64\UE4\Inc\MyProject\MyProjectPlayerController.generated.h
