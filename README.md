@@ -1,6 +1,6 @@
 # mini_ecosystem
 
-https://github.com/yerko321/mini_ecosystem/blob/main/Recording%202023-01-08%20at%2019.30.26.gif
+![](https://github.com/yerko321/mini_ecosystem/blob/main/Recording%202023-01-08%20at%2019.30.26.gif)
 
 In this verry small example of a mini ecosystem. I try to look at the workings of a singular species.
 This species focuses on staying alive thru finding food when hungry. And the desire of repopulation based on age.
