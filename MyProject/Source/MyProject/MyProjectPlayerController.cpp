@@ -47,7 +47,7 @@ void AMyProjectPlayerController::OnResetVR()
 void AMyProjectPlayerController::MoveToMouseCursor()
 {
 
-	return;
+	//return;
 
 
 	if (UHeadMountedDisplayFunctionLibrary::IsHeadMountedDisplayEnabled())
@@ -79,7 +79,7 @@ void AMyProjectPlayerController::MoveToTouchLocation(const ETouchIndex::Type Fin
 	FVector2D ScreenSpaceLocation(Location);
 
 
-	return;
+	//return;
 
 
 	// Trace to see what is under the touch location

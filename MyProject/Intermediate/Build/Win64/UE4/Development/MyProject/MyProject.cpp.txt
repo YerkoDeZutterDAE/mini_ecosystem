@@ -1,2 +1,0 @@
-D:\school\GPP\testing\MyProject\Intermediate\Build\Win64\UE4\Development\MyProject\Definitions.MyProject.h
-D:\school\GPP\testing\MyProject\Source\MyProject\MyProject.h
